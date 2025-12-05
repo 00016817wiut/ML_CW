@@ -1,0 +1,4 @@
+Model,RMSE (Log),R-squared,Median_Absolute_Error ($)
+Random_Forest,0.5843,0.5682,198631.0
+KNN_Regression,0.6307,0.4969,220799.0
+MLR,0.6607,0.4479,234180.0
